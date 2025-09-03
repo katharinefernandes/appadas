@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jokers_questions">
+        <item>@string/joker_question_one</item>
+        <item>@string/joker_question_two</item>
+        <item>@string/joker_question_three</item>
+        <item>@string/joker_question_four</item>
+        <item>@string/joker_question_five</item>
+        <item>@string/joker_question_six</item>
+        <item>@string/joker_question_seven</item>
+    </string-array>
+</resources>

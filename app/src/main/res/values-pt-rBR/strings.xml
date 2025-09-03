@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">appadas</string>
     <string name="label_joker_question_hint">Aqui será exibida a pergunta da piada</string>
@@ -44,7 +45,4 @@
 
     <string name="joker_question_fourteen">Por que o tomate foi ao banco?</string>
     <string name="joker_answer_fourteen">Para tirar extrato.</string>
-    <string name="ligado">Ligado</string>
-    <string name="desligado">Desligado</string>
-
 </resources>

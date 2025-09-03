@@ -18,7 +18,7 @@
         <item name="android:minLines">5</item>
         <item name="android:textSize">@dimen/label_font_size</item>
         <item name="android:textStyle">italic|bold</item>
-        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorLabelPrimary</item>
     </style>
 
     <style name="Button" parent="Widget.Material3.Button">
@@ -26,5 +26,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">@dimen/margin_default</item>
         <item name="android:layout_marginBottom">@dimen/margin_default</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
     </style>
 </resources>

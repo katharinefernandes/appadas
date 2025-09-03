@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appadas</string>
+    <string name="label_joker_question_hint">The joke question will be displayed here</string>
+    <string name="label_joker_answer_hint">The joke answer will be displayed here</string>
+    <string name="button_new_joker">Tell another joke</string>
+    <string name="joker_question_one">Why is the spider the neediest animal in the world?</string>
+    <string name="joker_answer_one">Because it’s an arachneedyou.</string>
+
+    <string name="joker_question_two">Why doesn’t the pine tree get lost in the forest?</string>
+    <string name="joker_answer_two">Because it has a pine-cone (compass).</string>
+
+    <string name="joker_question_three">What did a pagode singer go do in church?</string>
+    <string name="joker_answer_three">He went to sing PÁ GOD.</string>
+
+    <string name="joker_question_four">Why was Napoleon always invited to parties?</string>
+    <string name="joker_answer_four">Because he was GOOD NA PARTY.</string>
+
+    <string name="joker_question_five">Who is the king of cheeses?</string>
+    <string name="joker_answer_five">The “reiqueijão” (cream king/cheese).</string>
+
+    <string name="joker_question_six">Why doesn’t the old lady wear a watch?</string>
+    <string name="joker_answer_six">Because she’s a señora (senhora).</string>
+
+    <string name="joker_question_seven">When did Americans eat meat for the first time?</string>
+    <string name="joker_answer_seven">When Christopher “Com Lombo” arrived.</string>
+
+    <string name="joker_question_eight">Why did the computer go to the doctor?</string>
+    <string name="joker_answer_eight">Because it had a virus.</string>
+
+    <string name="joker_question_nine">What’s the oldest animal in the world?</string>
+    <string name="joker_answer_nine">The zebra, because it’s still in black and white.</string>
+
+    <string name="joker_question_ten">Why did the book go to the gym?</string>
+    <string name="joker_answer_ten">Because it wanted to gain more volume.</string>
+
+    <string name="joker_question_eleven">What did zero say to eight?</string>
+    <string name="joker_answer_eleven">Nice belt!</string>
+
+    <string name="joker_question_twelve">Why is the pencil always calm?</string>
+    <string name="joker_answer_twelve">Because it has a fine point.</string>
+
+    <string name="joker_question_thirteen">What’s the height of sleepiness?</string>
+    <string name="joker_answer_thirteen">Sleeping with your eyes open.</string>
+
+    <string name="joker_question_fourteen">Why did the tomato go to the bank?</string>
+    <string name="joker_answer_fourteen">To get a statement (extract).</string>
+
+</resources>
